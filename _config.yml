@@ -16,7 +16,7 @@
 title: My Blog of Awesomity
 email: ilgaz@altinoren.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog.I can't do descriptions very well.
+  This is my blog. I can't do descriptions very well.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  emnom
