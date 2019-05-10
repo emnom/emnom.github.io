@@ -1,5 +1,5 @@
 ---
-title : "Which is harder:Fiction or Nonfiction"
+title : "Which is harder: Fiction or Nonfiction"
 layout : post
 ---
 Because I have not written much I have very little experience in the art of writing so this will mostly be what other
