@@ -1,6 +1,7 @@
 ---
 layout : post
 title : "My experience with Python and c#"
+published: false
 ---
 I learned some Python (a programming language). I wanted to write a game someday. 
 But writing a game in Python is 𝘏𝘢𝘳𝘥. So I knew I eventually would have to switch to 

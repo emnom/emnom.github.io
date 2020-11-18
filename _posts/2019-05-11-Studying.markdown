@@ -1,6 +1,7 @@
 --- 
 title : Studying 
 layout : post
+published: false
 ---
 I have I been studying math consistently since 3rd grade (I'm now in 7th grade). I thought I would share some things I picked up on about studying on a schedule.The things I say about studying also applies for practicing.
 

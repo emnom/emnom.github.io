@@ -1,6 +1,7 @@
 --- 
 layout : post
 title : "Popularity corrupts and absolute popularity corrupts absolutely"
+published: false
 ---
 Why is it so hard to find good content in youtube? A lot of the youtubers drastically reduce the quality of their videos once they gain popularity. This, combined with popular things being easier to find makes it a lot harder to find good _and_ new content. 
 

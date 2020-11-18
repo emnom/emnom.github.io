@@ -1,6 +1,7 @@
 ---
 title : "The non-realisticness of D&D"
 layout : post
+published: false
 ---
 This may sound weird but I like the non-realisticness of D&D (aside from the obvious magic and elves and yadda yadda yadda). For
 example unless your hit points reaches 0 loss of hitpoints usually doesn't change anything. If it were realistic you would for example

@@ -1,6 +1,7 @@
 ---
 title : "My opinions on success"
 layout : post
+published: false
 ---
 I think that success is when you can look back and think: "Wow, how much I have come" (passed time doesn't 
 count: you can't spend all your life doing nothing and call it success). And not just in the sense of 
